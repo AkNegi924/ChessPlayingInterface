@@ -1,3 +1,6 @@
+### Requirement:
+Download Stockfish chess engine from the link https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip into the folder Python Code.
+
 ### Here are the steps to run the Python code:
 
 1. Open main.py in some code editor like VS Code.
