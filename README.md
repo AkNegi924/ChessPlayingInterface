@@ -1,3 +1,6 @@
+
+![Screenshot (624)](https://github.com/user-attachments/assets/c832827a-3a30-46c6-a854-b12fa8666e0c)
+
 ### Requirement:
 Download Stockfish chess engine from the link https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip into the folder Python Code.
 
