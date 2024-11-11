@@ -2,7 +2,7 @@ import pygame
 import chess
 from random import choice
 from data.classes.Board import Board
-from EvaluationFunctions.Negmax.PST import ImprovedChessEngine as Engine
+from EvaluationFunctions.MCTS.Combined import MCTSEngine as Engine
 
 pygame.init()
 
