@@ -28,7 +28,7 @@ screen = pygame.display.set_mode(WINDOW_SIZE)
 board1 = Board(WINDOW_SIZE[0], WINDOW_SIZE[1])
 board2 = chess.Board()
 
-stockfish = Stockfish("SE\StockfishEngine.exe")
+stockfish = Stockfish("stockFishEngine\StockfishEngine.exe")
 stockfish.set_depth(1)
 stockfish.set_skill_level(1)
 
