@@ -15,7 +15,7 @@ A complete chess interface built in Python using the Pygame library. This interf
 
 ## Requirements
 
-- **Python** 3.x
+- **Python** 3.12
 - **Pygame**: `pip install pygame`
 - **Stockfish** chess engine installed and configured
 
